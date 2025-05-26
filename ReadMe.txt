@@ -1,5 +1,7 @@
 Tree Path Generator
 
+WARNING THE SCRIPTS HAVE ERRORS THEY CAN ONLY BE RUN LOCALLY IM SORRY FOR THIS inconvenience
+
 This tool helps you create a visual tree path from your directory structure. It works by listing all files and folders, 
 then converting that list into a readable tree format using a Python script.
 
